@@ -1,9 +1,33 @@
 body {
-    background-image: url("../assests/images/personalsite.jpeg");
-    background-size: 100%;
+    background: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/cosmo.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     font-family: Raleway;
 }
 
 .soon{
-    margin-top: 15em;
+    margin-top: 1em;
+    margin-bottom: 5px;
+}
+
+.soon h1 {
+    color: #6200ea;
+}
+
+.stuff {
+    background-image: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/stardust.png");
+    width: 100%;
+    height: 30em;
+    border-radius: 20px;
+    color: white;
+}
+
+.stuff h1 {
+    color: white
+}
+
+.tabs-tab{
+    background-color: black;
 }
