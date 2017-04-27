@@ -1,15 +1,15 @@
 body {
-    background: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/cosmo.jpg") no-repeat center center fixed;
-    background-size: cover;
+    background: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/grey.png");
+    /*background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    font-family: Raleway;
+    font-family: Raleway;*/
 }
 
 .soon{
-    margin-top: 1em;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .soon h1 {
@@ -17,7 +17,7 @@ body {
 }
 
 .stuff {
-    background-image: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/stardust.png");
+    background-image: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/robots.png");
     width: 100%;
     height: 30em;
     border-radius: 20px;
@@ -28,6 +28,3 @@ body {
     color: white
 }
 
-.tabs-tab{
-    background-color: black;
-}
