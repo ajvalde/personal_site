@@ -1,10 +1,6 @@
 body {
-    background: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/grey.png");
-    /*background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    font-family: Raleway;*/
+    background: url("./images/grey.png");
+    font-family: Raleway;
 }
 
 .soon{
@@ -17,14 +13,18 @@ body {
 }
 
 .stuff {
-    background-image: url("/Users/anthony/personal/mywebsite/personal_site/personal_site/assests/images/robots.png");
+    background-image: url("./images/robots.png");
     width: 100%;
     height: 30em;
     border-radius: 20px;
     color: white;
+    box-shadow: 5px 5px 5px black;
 }
 
 .stuff h1 {
     color: white
 }
-
+ p_image {
+     width: 2px;
+     height: 4px;
+ }
